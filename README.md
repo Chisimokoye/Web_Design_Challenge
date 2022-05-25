@@ -1,6 +1,6 @@
 # Web_Design_Challenge
 
-Here is my website link file:///C:/Users/chisi/Desktop/Web_Design_Challenge/index.html
+Here is my website link:  file:///C:/Users/chisi/Desktop/Web_Design_Challenge/index.html
 
 Would you like to see screenshots?
 # Landing page 
