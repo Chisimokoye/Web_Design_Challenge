@@ -1,6 +1,6 @@
 # Web_Design_Challenge
 
-Here is my website link:  https://chisimokoye.github.io/Web_Design_Challenge/wind_speed.html
+Here is my website link:  https://chisimokoye.github.io/Web_Design_Challenge/index.html
 
 Would you like to see screenshots?
 # Landing page 
